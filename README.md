@@ -1,4 +1,4 @@
-# Labios de terciopelo rojo
+# Labios de terciopelo rojo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Labios de terciopelo rojo |
+| **Title** | Labios de terciopelo rojo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-de-terciopelo-rojo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Labios de terciopelo rojo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-terciopelo-rojo/) |
+| **Get License** | [Get License For Labios de terciopelo rojo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-de-terciopelo-rojo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus labios de terciopelo rojo me tienen volando
+> En la oscuridad de la disco te sigo buscando
+> Esa mirada de fuego me está provocando
+> Y en medio de toda la gente nos vamos acercando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `fb51ba3bcc531a4d07a6ca4e45a97cf595e16df7bef109c5edd61c6977c81fe0` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
